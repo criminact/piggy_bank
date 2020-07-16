@@ -1,0 +1,26 @@
+{
+  "name": "piggybank",
+  "version": "1.0.0",
+  "description": "Ethereum enabled Piggy bank.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criminact/piggy_bank.git"
+  },
+  "keywords": [
+    "Smart-Contracts"
+  ],
+  "author": "xriminact",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criminact/piggy_bank/issues"
+  },
+  "homepage": "https://github.com/criminact/piggy_bank#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.2.9"
+  }
+}
